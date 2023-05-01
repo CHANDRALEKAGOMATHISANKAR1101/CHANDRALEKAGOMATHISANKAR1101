@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandralekagomathisankar1101&label=Profile%20views&color=0e75b6&style=flat" alt="chandralekagomathisankar1101" /> </p>
 
-- 🔭 I’m currently working on Interview Preparation(https://github.com/CHANDRALEKAGOMATHISANKAR1101/techchan.git)
+- 🔭 I’m currently working on Interview Preparation
 
 - 🌱 I’m currently learning **Hibernate**
 
