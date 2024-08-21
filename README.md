@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://CHANDRALEKAGOMATHISANKAR1101.io)
 <h1 align="center">Hi 👋, I'm CHANDRALEKA</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandralekagomathisankar1101&label=Profile%20views&color=0e75b6&style=flat" alt="chandralekagomathisankar1101" /> </p>
