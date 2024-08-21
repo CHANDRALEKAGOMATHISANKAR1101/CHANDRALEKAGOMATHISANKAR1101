@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on Interview Preparation
 
-- 🌱 I’m currently learning **Hibernate**
+- 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Javascript, ReactJS**
 
-- 📫 How to reach me **chandra11012001@gmail.com**
+- 📫 How to reach me **email2chandraa@gmail.com**
 
 - ⚡ Fun fact **I am funny **
 
