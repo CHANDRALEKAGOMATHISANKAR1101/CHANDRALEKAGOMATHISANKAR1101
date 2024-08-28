@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tCtfwaKkZ25ZZ65EuYl7OoQr0Zw3shMY7YGHgHDUhrkTbMXrb2EaHR_OneBYNW-iOos&usqp=CAU)](https://CHANDRALEKAGOMATHISANKAR1101.io)
+[![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)](https://CHANDRALEKAGOMATHISANKAR1101.io)
 <h1 align="center">Hi 👋, I'm CHANDRALEKA</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
